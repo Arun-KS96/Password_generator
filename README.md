@@ -33,7 +33,7 @@ print(f"Your password is: {password}")
 
 ## Output 1
 
-   ![](/images/20.2.png)
+   ![](/20.2.png)
 
 
 ## Code 2
@@ -75,4 +75,4 @@ print(f"Your password is: {password}")
 
 ## Output 2
 
-   ![](/images/20.5.png)
+   ![](/20.5.png)
