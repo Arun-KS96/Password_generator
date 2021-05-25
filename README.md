@@ -1,8 +1,8 @@
 # Password Generator
 
-## Code
+## Code 1
 
-1. Easy level approach to generate a password:
+Easy level approach to generate a password:
 
 ```python
 #Password Generator Project
@@ -31,14 +31,14 @@ for char in range(1, nr_numbers+1):
 print(f"Your password is: {password}")
 ```
 
-## Output
+## Output 1
 
    ![](/images/20.2.png)
 
 
-## Code
+## Code 2
 
-2. High level approach to generate a password:
+High level approach to generate a password:
 
 ```python
 #Password Generator Project
@@ -73,6 +73,6 @@ for char in password_list:
 print(f"Your password is: {password}")
 ```
 
-## Output
+## Output 2
 
    ![](/images/20.5.png)
